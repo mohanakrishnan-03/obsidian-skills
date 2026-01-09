@@ -1,6 +1,11 @@
 Claude Skills for use with Obsidian.
+## Who is this for?
 
-## Installation
+This repository is intended for use with Claude Code and Obsidian.
+It provides configuration files that help Claude work with Obsidian notes.
+
+
+## Installation (Configuration)
 
 Add the contents of this repo to a `/.claude` folder in the root of your Obsidian vault (or whichever folder you're using with Claude Code). See more in the [official Claude Skills documentation](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview).
 
